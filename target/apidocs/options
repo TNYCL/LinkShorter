@@ -1,0 +1,24 @@
+-classpath
+'E:/TNYCL/Library/API.jar;C:/Users/tunay/.m2/repository/mysql/mysql-connector-java/8.0.21/mysql-connector-java-8.0.21.jar;C:/Users/tunay/.m2/repository/com/google/protobuf/protobuf-java/3.11.4/protobuf-java-3.11.4.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/tunay/Desktop/Plugin Repository/LinkShorter/src;C:/Users/tunay/Desktop/Plugin Repository/LinkShorter/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/tunay/Desktop/Plugin Repository/LinkShorter/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LinkShorter 1 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/tunay/Desktop/Plugin Repository/LinkShorter/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'LinkShorter 1 API'
